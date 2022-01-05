@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#section {
+    width:800px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+<div id="header">
+<h1>计算机科学技术导论作业</h1></div>
+<div id="section">
+<h2>计算机学科各课程关系图</h2>
+<img src="计算机学科课程关系图.jpg" width="800"/ height="500">
+<h2>课程学习资料</h2>
+<p><a href="https://blog.csdn.net/ityqing/article/details/82838524">数据结构与算法</a></p>
+<p><a href="https://wenku.baidu.com/view/3db24c3ce518964bcf847cc4.html">数字逻辑</a></p>
+<p><a href="https://wenku.baidu.com/view/05b25c9ccf2f0066f5335a8102d276a2002960a5.html">数值计算方法</a> </p>
+<p><a href="https://wenku.baidu.com/view/7b2b185ff7335a8102d276a20029bd64783e626c.html">计算机网络</a> </p>
+<p><a href="https://wenku.baidu.com/view/08cb894703d276a20029bd64783e0912a3167cee.html">数据库结构</a> </p>
+<p><a href="https://zhuanlan.zhihu.com/p/104264460">操作系统</a> </p>
+<p><a href="https://wenku.baidu.com/view/7144ad90fb0f76c66137ee06eff9aef8941e48a5.html">计算机组成与结构</a></p>
+<p><a href="https://wenku.baidu.com/view/79f268faaf45b307e9719770.html">数字图像处理</a> </p>
+<p><a href="https://wenku.baidu.com/view/e2e7764c842458fb770bf78a6529647d27283467.html">软件工程</a> </p>
+<p><a href="https://wenku.baidu.com/view/69ba2c33f111f18583d05a02.html">编译原理</a></p>
+<p><a href="https://max.book118.com/html/2019/0628/8067042070002032.shtm">JAVA语言程序设计</a> </p>
+<p><a href="https://www.renrendoc.com/paper/124776306.html">Web应用程序设计与开发</a> </p>
+<p><a href="https://wenku.baidu.com/view/6cdf55b928ea81c758f578cd.html">嵌入式系统</a> </p>
+<p><a href="https://blog.csdn.net/weixin_43281232/article/details/108805512">嵌入式程序设计</a> </p>
+<h2>我对计算机专业的认识</h2>
+<p>    在我高中的时候，我眼中的计算机专业就是编写程序、开发软件，上了大学之后，通过计算机科学技术导论课上的学习和课后与同学的讨论中我逐渐发现计算机专业没有我想的那么简单
+计算机专业是指计算机硬件与软件相结合、面向系统、更偏向应用的宽口径专业。计算机学科的学科特色体现在：理论性强、实践性强、发展迅速。计算机专业需要学习的主要课程有C语言程序设
+计、数据结构与算法、数字逻辑、计算机网络、网络安全、数据库结构、操作系统、计算机组成与结构、软件工程、编译原理通信原理等专业课程以及一系列基础通识课程。本专业毕业生应获得以
+下几个方面的知识和能力：
+1.掌握电子技术和计算机组成与结构的基本理论知识和实验技能，能进行计算机硬件开发与设计；
+2.掌握程序设计语言、数据结构与算法、操作系统以及软件工程的基本知识与技能，要善于进行程序编写和设计，能从事软件开发；
+3.掌握网络与通信、多媒体信息处理、计算机网络安全、图像处理等方面的理论和技术以及实践能力。
+    计算机专业的就业前景广阔，我了解的几个大方向有：软件开发、硬件开发、网络信息安全、网络通信、大数据、人工智能AI等等。</p>
+<h2>我的学业规划</h2>
+<p>    我的学业规划大致分为四个阶段，第一阶段：专业分流，我希望在大二专业分流进入计算机专业或者电气工程及其自动化专业学习，交大竞争激烈，高手云集，要进入这两个专业呢并不简单，所
+以我在大一的一年里一定会全力以赴，力争上流，并且争取在大一（最迟大二）能考完英语四六级，减轻以后的学业负担。第二阶段：进入大二，开始学习专业知识，更加不能放松，要继续努力，争
+取进入专业前30%，获得保研资格，如果可以，我想保研留在交大。第三阶段：在学习之余，更要注重社会实践，在各学期的寒暑假，我将积极参加各种社会实践活动，丰富自生阅历，提高自身实践
+能力。第四阶段：研究生阶段继续努力，致力于科研，继续完善自身，争取毕业之后进入国企工作或者留在交大，继续深造。</p></div>
+<div id="footer">
+作者：西安交通大学  电气与信息2128班  舒详  学号：2214312041</div>
+</body>
+</html>
